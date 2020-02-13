@@ -4,3 +4,9 @@ Predicting whether a given image is a cat or a dog in Machine Learning using ker
 # Description
 
 Given image_dataset which contains training_set and test_set. I have trained the model using images present in training_set which contains folders of cats and dogs images and tested the model for accuracy against the images present in test_set which contains folders of cats and dogs images.
+
+# Dataset Images
+
+Download the image_dataset from the following link:
+
+https://drive.google.com/open?id=1EudTNFKhKMmv02h3WmWh-PctqgVrksYe
